@@ -22,7 +22,7 @@ namespace SeleniumProject
         [OneTimeSetUp]
         public void SetUp()
         {
-            string path = "T:\\הנדסת תוכנה\\שנה ב\\קבוצה ב\\קורס אוטומציה\\שיעור5\\SeleniumProject\\SeleniumProject";
+            string path = "D:\\לימודי הנדסאים\\אוטומציה\\SeleniumProject\\SeleniumProject";
 
             //Creates the ChomeDriver object, Executes tests on Google Chrome
 
